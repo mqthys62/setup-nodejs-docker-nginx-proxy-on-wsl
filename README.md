@@ -1,6 +1,6 @@
 # 🐧 Environnement de Développement Linux sous WSL + Nginx Proxy Local
 
-Ce dépôt contient deux scripts utiles pour gérer un environnement de développement local sur **Ubuntu WSL**, avec une gestion facilitée des projets et des URLs locales personnalisées via **Nginx**.
+Ce dépôt contient des scripts utiles pour gérer un environnement de développement local sur **Ubuntu WSL**, avec une gestion facilitée des projets et des URLs locales personnalisées via **Nginx**.
 
 ---
 
